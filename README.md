@@ -15,9 +15,12 @@ Welcome to my GitHub profile! I'm a passionate developer and student at Algonqui
 
 ## 🌐 My Projects
 ### [PitchJams.com](https://pitchjams.com)
-A platform where entrepreneurs post video pitches for business ideas:  
+PitchJams is a startup platform where entrepreneurs post video pitches for business ideas. I'm working with a team to make the admin side website for it:  
 - Features: CRUD operations for pitches, comments, and replies.  
 - Tech Stack: HTML, CSS, JavaScript, PHP, Spring Boot, MySQL.  
+
+### **Inventory Management System**
+A Java program
 
 ### **AppUser Management System**
 A Jakarta EE application for secure user account management:  
@@ -34,6 +37,7 @@ A hardware-based matching game using:
 ---
 
 ## 🛠️ Skills
+[![Guntas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Guntas007)](https://github.com/anuraghazra/github-readme-stats)
 - **Programming Languages**: Java, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
