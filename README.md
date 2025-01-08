@@ -36,11 +36,11 @@ A Java program that uses Data Structures and Algorithms to maintain an inventory
 
 ### **Connect 4 Game**
 A two-player multiplayer game developed in Java using Swing.
--Architecture: Followed MVC pattern for modular design.
--Frontend: Responsive UI built with Swing and AWT.
--Backend: Core game logic focused on performance and reliability.
--Features: In-game chat system implemented with Java Networking (sockets and streams).
--Tech: Java (OOP, event-driven programming).
+- Architecture: Followed MVC pattern for modular design.
+- Frontend: Responsive UI built with Swing and AWT.
+- Backend: Core game logic focused on performance and reliability.
+- Features: In-game chat system implemented with Java Networking (sockets and streams).
+- Tech: Java (OOP, event-driven programming).
 
 ### **AppUser Management System**
 A Jakarta EE application for secure user account management:  
