@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and student at Algonquin College, constantly learning and building new projects. Here's a bit about me and my work:
 
+[![Guntas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚀 About Me
@@ -37,9 +39,8 @@ A hardware-based matching game using:
 ---
 
 ## 🛠️ Skills
-[![Guntas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guntas007)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - **Programming Languages**: Java, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
