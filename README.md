@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Guntas Singh Chugh 
 
 Welcome to my GitHub profile! I'm a passionate developer and student at Algonquin College, constantly learning and building new projects. Here's a bit about me and my work:
 
@@ -34,7 +34,7 @@ A hardware-based matching game using:
 ---
 
 ## 🛠️ Skills
-- **Programming Languages**: Java, C++, JavaScript, PHP, HTML, CSS  
+- **Programming Languages**: Java, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
 - **Hardware Programming**: Teensy, Arduino  
@@ -43,9 +43,8 @@ A hardware-based matching game using:
 ---
 
 ## 📫 Contact Me
-- 📧 Email: [Your Email Address]  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [Your Portfolio Link]  
+- 📧 Email: [guntas235@gmail.com]  
+- 💼 LinkedIn: [Guntas Singh Chugh](https://www.linkedin.com/in/guntas-singh-chugh/)  
 
 ---
 
