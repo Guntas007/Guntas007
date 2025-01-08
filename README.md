@@ -38,6 +38,8 @@ A hardware-based matching game using:
 
 ## 🛠️ Skills
 [![Guntas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guntas007)](https://github.com/anuraghazra/github-readme-stats)
 - **Programming Languages**: Java, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
