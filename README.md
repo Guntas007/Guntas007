@@ -52,7 +52,7 @@ A hardware-based matching game using:
 ## 📫 Contact Me
 - 📧 Email: [guntas235@gmail.com]  
 - 💼 LinkedIn: [Guntas Singh Chugh](https://www.linkedin.com/in/guntas-singh-chugh/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Guntas007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Guntas Singh Chugh/)  
 ---
 
 Thanks for visiting my profile! 😊 Feel free to check out my repositories and reach out if you'd like to collaborate!
