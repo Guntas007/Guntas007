@@ -59,7 +59,6 @@ A hardware-based matching game using:
 ## 🛠️ Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Guntas007/contributions?format=svg&private=true) 
 - **Programming Languages**: Java, C++, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
