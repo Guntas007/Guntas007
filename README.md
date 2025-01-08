@@ -1,3 +1,10 @@
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 # Hi there! 👋 I'm Guntas Singh Chugh 
 
 Welcome to my GitHub profile! I'm a passionate developer and student at Algonquin College, constantly learning and building new projects. Here's a bit about me and my work:
@@ -22,7 +29,18 @@ PitchJams is a startup platform where entrepreneurs post video pitches for busin
 - Tech Stack: HTML, CSS, JavaScript, PHP, Spring Boot, MySQL.  
 
 ### **Inventory Management System**
-A Java program
+A Java program that uses Data Structures and Algorithms to maintain an inventory system. 
+- Products are categorized ad fruits/vegetables/preserve. Each item has a unique item code.
+- Actions: Adding a new product to inventory, Displaying the current, Buying/Selling of item from inventory, reading and writing the inventory into an external file.
+- Tech: Java
+
+### **Connect 4 Game**
+A two-player multiplayer game developed in Java using Swing.
+-Architecture: Followed MVC pattern for modular design.
+-Frontend: Responsive UI built with Swing and AWT.
+-Backend: Core game logic focused on performance and reliability.
+-Features: In-game chat system implemented with Java Networking (sockets and streams).
+-Tech: Java (OOP, event-driven programming).
 
 ### **AppUser Management System**
 A Jakarta EE application for secure user account management:  
@@ -41,7 +59,7 @@ A hardware-based matching game using:
 ## 🛠️ Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-- **Programming Languages**: Java, JavaScript, PHP, HTML, CSS  
+- **Programming Languages**: Java, C++, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
 - **Hardware Programming**: Teensy, Arduino  
@@ -51,8 +69,8 @@ A hardware-based matching game using:
 
 ## 📫 Contact Me
 - 📧 Email: [guntas235@gmail.com]  
-- 💼 LinkedIn: [Guntas Singh Chugh](https://www.linkedin.com/in/guntas-singh-chugh/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Guntas007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Guntas Singh Chugh/)  
+- 💼 LinkedIn: [Guntas Singh Chugh](https://www.linkedin.com/in/guntas-singh-chugh/)
+   
 ---
 
 Thanks for visiting my profile! 😊 Feel free to check out my repositories and reach out if you'd like to collaborate!
