@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate developer and student at Algonqui
 ---
 
 ## 🚀 About Me
-- 🎓 **Student** at Algonquin College  
-- 🥪 **Kitchen Leader** at McDonald's  
-- 💻 **Aspiring Software Developer** with experience in Java, JavaScript, HTML, CSS, PHP, MySQL, and Spring Boot  
-- 🌟 **Currently Learning**: Microcontroller Programming with Teensy and Jakarta EE development  
-- 📚 Focused on creating secure and scalable web applications  
+- 🎓 **Graduate** from Algonquin College  
+- 🥪 **Manager** at McDonald's  
+- 💻 **Aspiring Software/Web Developer** with experience in Java, JavaScript, HTML, CSS, PHP, MySQL, and Spring Boot  
+- 🌟 **Currently Learning**: React script to create amazing web application projects, and learning djamgo for database
+- 📚 Focused on creating secure and scalable web applications
 
 ---
 
