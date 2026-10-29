@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer and student at Algonqui
 
 ## 🚀 About Me
 - 🎓 **Graduate** from Algonquin College  
-- 🥪 **Manager** at McDonald's  
+- 🥪 **Operations and Technical Person** at McDonald's  
 - 💻 **Aspiring Software/Web Developer** with experience in Java, JavaScript, HTML, CSS, PHP, MySQL, and Spring Boot  
 - 🌟 **Currently Learning**: React script to create amazing web application projects, and learning djamgo for database
 - 📚 Focused on creating secure and scalable web applications
@@ -41,7 +41,6 @@ A Jakarta EE application for secure user account management:
 
 ## 🛠️ Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guntas007&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - **Programming Languages**: Java, C++, JavaScript, PHP, HTML, CSS  
 - **Frameworks & Libraries**: Spring Boot, JSF, Jakarta EE  
 - **Databases**: MySQL  
@@ -56,4 +55,4 @@ A Jakarta EE application for secure user account management:
    
 ---
 
-Thanks for visiting my profile! 😊 Feel free to check out my repositories and reach out if you'd like to collaborate!
+Thanks for visiting my profile! 😊 Feel free to check out my repositories and reach out!
